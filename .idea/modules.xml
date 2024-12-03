@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Devdojo.iml" filepath="$PROJECT_DIR$/Devdojo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/praticaajava.iml" filepath="$PROJECT_DIR$/praticaajava.iml" />
+>>>>>>> 5dbc1782fe0ce6fe932600a2bd4586059862e7ef
     </modules>
   </component>
 </project>
